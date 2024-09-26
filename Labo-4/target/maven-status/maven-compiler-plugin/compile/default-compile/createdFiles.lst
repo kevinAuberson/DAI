@@ -1,0 +1,6 @@
+ch\heig\dai\smtp\App.class
+ch\heig\dai\smtp\model\Group.class
+ch\heig\dai\smtp\config\Configuration.class
+ch\heig\dai\smtp\network\SmtpClient.class
+ch\heig\dai\smtp\model\Message.class
+ch\heig\dai\smtp\model\EmailValidation.class
